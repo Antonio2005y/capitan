@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "CSS",
+			"path": "../../../CSS"
+		},
+		{
+			"name": "09 grid",
+			"path": "../../09 grid"
+		},
+		{
+			"name": "10 maqueta",
+			"path": "../../10 maqueta"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Menucss",
+		"liveServer.settings.port": 5501
+	}
+}
